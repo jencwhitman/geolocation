@@ -8,7 +8,7 @@ remove(list=ls())
 ##########Things to be set by the user
 directory="maindirectoryname/"
 district="subdirectoryname/"
-infilenameMain="filenamewithotcsvextentionadded"
+infilenameMain="filenamewithoutcsvextentionadded"
 NumRowsTarg=9000; # because https://geocoding.geo.census.gov maxes out at 10,000 rows
 # NumRowsTarg=desired number of rows per chunk 
 
